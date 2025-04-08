@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\repositorys\\groups\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\repositorys\\groups\\groupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\repositorys\\todotasks\\todotasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\repositorys\\todotasks\\todotasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\dtos\\todotaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\dtos\\todotaskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\controllers\\groups\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\controllers\\groups\\groupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\models\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\services\\groups\\groupsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\services\\groups\\groupsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\repositorys\\todotasks\\itodotasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\repositorys\\todotasks\\itodotasksrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\repositorys\\groups\\igroupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\repositorys\\groups\\igroupsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\models\\tododbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\dtos\\groupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\controllers\\todotasks\\todotaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\controllers\\todotasks\\todotaskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|c:\\users\\lucio\\desktop\\to-do list\\todo.api\\todo.api\\migrations\\20250407215159_addinicializalistatarefasemgrupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51308D87-3E9D-4692-BB5F-5F798CCE0621}|ToDo.API\\ToDo.API.csproj|solutionrelative:todo.api\\migrations\\20250407215159_addinicializalistatarefasemgrupos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 408,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\DTOs\\GroupDTO.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\DTOs\\GroupDTO.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\DTOs\\GroupDTO.cs",
+              "RelativeToolTip": "ToDo.API\\DTOs\\GroupDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:14:03.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToDoTaskDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\DTOs\\ToDoTaskDTO.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\DTOs\\ToDoTaskDTO.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\DTOs\\ToDoTaskDTO.cs",
+              "RelativeToolTip": "ToDo.API\\DTOs\\ToDoTaskDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:13:56.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20250407215159_AddInicializaListaTarefasEmGrupos.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Migrations\\20250407215159_AddInicializaListaTarefasEmGrupos.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Migrations\\20250407215159_AddInicializaListaTarefasEmGrupos.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Migrations\\20250407215159_AddInicializaListaTarefasEmGrupos.cs",
+              "RelativeToolTip": "ToDo.API\\Migrations\\20250407215159_AddInicializaListaTarefasEmGrupos.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:51:59.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\Group.cs",
+              "RelativeToolTip": "ToDo.API\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T21:51:16.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToDoTask.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\ToDoTask.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Models\\ToDoTask.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\ToDoTask.cs",
+              "RelativeToolTip": "ToDo.API\\Models\\ToDoTask.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:33:09.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GroupsService.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Services\\Groups\\GroupsService.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Services\\Groups\\GroupsService.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Services\\Groups\\GroupsService.cs",
+              "RelativeToolTip": "ToDo.API\\Services\\Groups\\GroupsService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:15:54.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\Groups\\GroupsRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Repositorys\\Groups\\GroupsRepository.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\Groups\\GroupsRepository.cs",
+              "RelativeToolTip": "ToDo.API\\Repositorys\\Groups\\GroupsRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:02:59.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ToDoTasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\ToDoTasks\\ToDoTasksRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Repositorys\\ToDoTasks\\ToDoTasksRepository.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\ToDoTasks\\ToDoTasksRepository.cs",
+              "RelativeToolTip": "ToDo.API\\Repositorys\\ToDoTasks\\ToDoTasksRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBIAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:16:22.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GroupsController.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Controllers\\Groups\\GroupsController.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Controllers\\Groups\\GroupsController.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Controllers\\Groups\\GroupsController.cs",
+              "RelativeToolTip": "ToDo.API\\Controllers\\Groups\\GroupsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGoAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:56:41.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IToDoTasksRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\ToDoTasks\\IToDoTasksRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Repositorys\\ToDoTasks\\IToDoTasksRepository.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\ToDoTasks\\IToDoTasksRepository.cs",
+              "RelativeToolTip": "ToDo.API\\Repositorys\\ToDoTasks\\IToDoTasksRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:14:49.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGroupsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\Groups\\IGroupsRepository.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Repositorys\\Groups\\IGroupsRepository.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Repositorys\\Groups\\IGroupsRepository.cs",
+              "RelativeToolTip": "ToDo.API\\Repositorys\\Groups\\IGroupsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:16:20.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ToDoDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\ToDoDbContext.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Models\\ToDoDbContext.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Models\\ToDoDbContext.cs",
+              "RelativeToolTip": "ToDo.API\\Models\\ToDoDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T22:14:09.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ToDoTasksController.cs",
+              "DocumentMoniker": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Controllers\\ToDoTasks\\ToDoTasksController.cs",
+              "RelativeDocumentMoniker": "ToDo.API\\Controllers\\ToDoTasks\\ToDoTasksController.cs",
+              "ToolTip": "C:\\Users\\lucio\\Desktop\\To-Do List\\ToDo.API\\ToDo.API\\Controllers\\ToDoTasks\\ToDoTasksController.cs",
+              "RelativeToolTip": "ToDo.API\\Controllers\\ToDoTasks\\ToDoTasksController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAewCoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T20:02:20.391Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 210,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
