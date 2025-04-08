@@ -39,7 +39,6 @@ namespace ToDo.API.Controllers.Groups
             var group = new Models.Group()
             {
                 Titulo = groupDTO.Titulo,
-                Cor = groupDTO.Cor,
             };
 
             await _groupsService.AddAsync(group);
@@ -55,7 +54,6 @@ namespace ToDo.API.Controllers.Groups
                 {
                     Id = id,
                     Titulo = groupDTO.Titulo,
-                    Cor = groupDTO.Cor,
                 };
                 await _groupsService.UpdateAsync(group);
                 return NoContent();
