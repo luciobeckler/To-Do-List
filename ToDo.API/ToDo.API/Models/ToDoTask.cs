@@ -1,7 +1,12 @@
-﻿namespace ToDo.API.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+using System.ComponentModel.DataAnnotations;
+
+namespace ToDo.API.Models
 {
     public class ToDoTask
     {
+        [Key]
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Titulo { get; set; }
         public string Descricao { get; set; }

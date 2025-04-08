@@ -190,66 +190,6 @@
         }
       }
     },
-    "/api/Groups/add-task": {
-      "put": {
-        "tags": [
-          "Groups"
-        ],
-        "parameters": [
-          {
-            "name": "idTask",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "idGroup",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
-    "/api/Groups/delete-task": {
-      "delete": {
-        "tags": [
-          "Groups"
-        ],
-        "parameters": [
-          {
-            "name": "idTask",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          },
-          {
-            "name": "idGroup",
-            "in": "query",
-            "schema": {
-              "type": "integer",
-              "format": "int32"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK"
-          }
-        }
-      }
-    },
     "/api/ToDoTasks": {
       "get": {
         "tags": [

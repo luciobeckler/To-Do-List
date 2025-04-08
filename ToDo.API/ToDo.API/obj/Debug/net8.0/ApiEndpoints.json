@@ -89,48 +89,6 @@
   },
   {
     "ContainingType": "ToDo.API.Controllers.Groups.GroupsController",
-    "Method": "AddTaskToGroup",
-    "RelativePath": "api/Groups/add-task",
-    "HttpMethod": "PUT",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idTask",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "idGroup",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ToDo.API.Controllers.Groups.GroupsController",
-    "Method": "RemoveTaskOnGroup",
-    "RelativePath": "api/Groups/delete-task",
-    "HttpMethod": "DELETE",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "idTask",
-        "Type": "System.Int32",
-        "IsRequired": false
-      },
-      {
-        "Name": "idGroup",
-        "Type": "System.Int32",
-        "IsRequired": false
-      }
-    ],
-    "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ToDo.API.Controllers.Groups.GroupsController",
     "Method": "Update",
     "RelativePath": "api/Groups/update",
     "HttpMethod": "PUT",
