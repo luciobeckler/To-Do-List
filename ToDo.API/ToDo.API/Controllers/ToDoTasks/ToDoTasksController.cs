@@ -42,13 +42,13 @@ namespace ToDo.API.Controllers.ToDoTasks
         {
             var todoTask = new Models.ToDoTask()
             {
-                Titulo = todoTaskDTO.Titulo,
-                Descricao = todoTaskDTO.Descricao,
+                Title = todoTaskDTO.Title,
+                Description = todoTaskDTO.Description,
                 Status = todoTaskDTO.Status,
-                Prioridade = todoTaskDTO.Prioridade,
-                Data_inicio = todoTaskDTO.DataInicio,
-                Data_fim = todoTaskDTO.DataFim,
-                GroupId = todoTaskDTO.GrupoId
+                Priority = todoTaskDTO.Priority,
+                StartDateTime = todoTaskDTO.StartDateTime,
+                EndDateTime = todoTaskDTO.EndDateTime,
+                GroupId = todoTaskDTO.GroupId
             };
 
             try
@@ -76,13 +76,13 @@ namespace ToDo.API.Controllers.ToDoTasks
                 if (existingTask == null)
                     return NotFound("Task not found.");
 
-                existingTask.Titulo = todoTaskDTO.Titulo;
-                existingTask.Descricao = todoTaskDTO.Descricao;
+                existingTask.Title = todoTaskDTO.Title;
+                existingTask.Description = todoTaskDTO.Description;
                 existingTask.Status = todoTaskDTO.Status;
-                existingTask.Prioridade = todoTaskDTO.Prioridade;
-                existingTask.Data_inicio = todoTaskDTO.DataInicio;
-                existingTask.Data_fim = todoTaskDTO.DataFim;
-                existingTask.GroupId = todoTaskDTO.GrupoId;
+                existingTask.Priority = todoTaskDTO.Priority;
+                existingTask.StartDateTime = todoTaskDTO.StartDateTime;
+                existingTask.EndDateTime = todoTaskDTO.EndDateTime;
+                existingTask.GroupId = todoTaskDTO.GroupId;
 
                 await _toDoTasksService.UpdateAsync(existingTask);
                 return NoContent();

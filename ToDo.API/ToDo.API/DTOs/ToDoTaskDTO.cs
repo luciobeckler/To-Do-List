@@ -2,12 +2,12 @@
 {
     public class ToDoTaskDTO
     {
-        public string Titulo { get; set; }
-        public string? Descricao { get; set; }
+        public string Title { get; set; }
+        public string? Description { get; set; }
         public string Status { get; set; }
-        public string Prioridade { get; set; }
-        public DateOnly? DataInicio { get; set; }
-        public DateOnly? DataFim { get; set; }
-        public int? GrupoId { get; set; }
+        public string Priority { get; set; }
+        public DateOnly? StartDateTime { get; set; }
+        public DateOnly? EndDateTime { get; set; }
+        public int? GroupId { get; set; }
     }
 }

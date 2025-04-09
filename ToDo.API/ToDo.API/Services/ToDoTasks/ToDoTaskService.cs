@@ -30,7 +30,7 @@ namespace ToDo.API.Services.ToDoTasks
                 if (groupExists == null)
                     throw new KeyNotFoundException($"Group with ID {task.GroupId} not found.");
 
-                task.Grupo = groupExists;
+                task.Group = groupExists;
             }
 
             await _toDoTasksRepository.AddAsync(task);

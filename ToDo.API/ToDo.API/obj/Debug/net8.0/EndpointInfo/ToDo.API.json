@@ -384,11 +384,7 @@
             "type": "integer",
             "format": "int32"
           },
-          "titulo": {
-            "type": "string",
-            "nullable": true
-          },
-          "cor": {
+          "title": {
             "type": "string",
             "nullable": true
           },
@@ -405,11 +401,7 @@
       "GroupDTO": {
         "type": "object",
         "properties": {
-          "titulo": {
-            "type": "string",
-            "nullable": true
-          },
-          "cor": {
+          "title": {
             "type": "string",
             "nullable": true
           }
@@ -423,11 +415,11 @@
             "type": "integer",
             "format": "int32"
           },
-          "titulo": {
+          "title": {
             "type": "string",
             "nullable": true
           },
-          "descricao": {
+          "description": {
             "type": "string",
             "nullable": true
           },
@@ -435,24 +427,26 @@
             "type": "string",
             "nullable": true
           },
-          "prioridade": {
+          "priority": {
             "type": "string",
             "nullable": true
           },
-          "data_inicio": {
+          "startDateTime": {
             "type": "string",
-            "format": "date"
+            "format": "date",
+            "nullable": true
           },
-          "data_fim": {
+          "endDateTime": {
             "type": "string",
-            "format": "date"
+            "format": "date",
+            "nullable": true
           },
           "groupId": {
             "type": "integer",
             "format": "int32",
             "nullable": true
           },
-          "grupo": {
+          "group": {
             "$ref": "#/components/schemas/Group"
           }
         },
@@ -461,11 +455,11 @@
       "ToDoTaskDTO": {
         "type": "object",
         "properties": {
-          "titulo": {
+          "title": {
             "type": "string",
             "nullable": true
           },
-          "descricao": {
+          "description": {
             "type": "string",
             "nullable": true
           },
@@ -473,19 +467,21 @@
             "type": "string",
             "nullable": true
           },
-          "prioridade": {
+          "priority": {
             "type": "string",
             "nullable": true
           },
-          "dataInicio": {
+          "startDateTime": {
             "type": "string",
-            "format": "date"
+            "format": "date",
+            "nullable": true
           },
-          "dataFim": {
+          "endDateTime": {
             "type": "string",
-            "format": "date"
+            "format": "date",
+            "nullable": true
           },
-          "grupoId": {
+          "groupId": {
             "type": "integer",
             "format": "int32",
             "nullable": true
